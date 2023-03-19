@@ -11,6 +11,10 @@ You need to have :
 
 3.Administrator rights in the system
 
+To get the URL of your ngrok , start colab and look in the console, it will look like this:
+
+![image](https://user-images.githubusercontent.com/39564937/226194283-eb24008d-18e0-489a-bf01-b7d7f2eb380c.png)
+
 
 
 For start use launch.bat , wait install the Lib`s and next
