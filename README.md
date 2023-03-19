@@ -1,5 +1,8 @@
 # Illyhasion
 
+*DISCLAIMER:
+After each restart of colab , it is necessary to rewrite the URL to ngrok in the bot config*
+
 You need to have :
 
 1.Python latest version
