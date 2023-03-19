@@ -24,7 +24,7 @@ input in this file in URL your URL
 
 The basis was : 
 
-1. The bot itself - https://colab.research.google.com/drive/1wEa-tS10h4LlDykd87TF5zzpXIIQoCmq
+1. The bot itself - https://github.com/Kilvoctu/aiyabot
 
 2.Model for the bot - https://colab.research.google.com/drive/1wEa-tS10h4LlDykd87TF5zzpXIIQoCmq
 
