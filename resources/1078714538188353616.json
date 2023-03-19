@@ -1,0 +1,22 @@
+{
+ "negative_prompt": "",
+ "data_model": "",
+ "steps": 30,
+ "max_steps": 50,
+ "width": 512,
+ "height": 512,
+ "guidance_scale": "7.0",
+ "sampler": "Euler a",
+ "style": "None",
+ "facefix": "None",
+ "highres_fix": "Disabled",
+ "clip_skip": 1,
+ "hypernet": "None",
+ "hyper_multi": "0.85",
+ "lora": "None",
+ "lora_multi": "0.85",
+ "strength": "0.75",
+ "batch": "1,1",
+ "max_batch": "1,1",
+ "upscaler_1": "ESRGAN_4x"
+}
