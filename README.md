@@ -11,6 +11,8 @@ You need to have :
 
 3.Administrator rights in the system
 
+You need to put your ngrok token in the startup parameters
+
 To get the URL of your ngrok , start colab and look in the console, it will look like this:
 
 ![image](https://user-images.githubusercontent.com/39564937/226194283-eb24008d-18e0-489a-bf01-b7d7f2eb380c.png)
